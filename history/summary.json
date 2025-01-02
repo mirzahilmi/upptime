@@ -4,10 +4,10 @@
     "url": "https://icn-filkom.ub.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/icn-filkom.ub.ac.id.ico",
     "slug": "icn-laboratory-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1967,
@@ -15,14 +15,16 @@
     "timeWeek": 1831,
     "timeMonth": 1967,
     "timeYear": 1967,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-02": 1
+    }
   },
   {
     "name": "BCC Website",
     "url": "https://bcc.filkom.ub.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/bcc.filkom.ub.ac.id.ico",
     "slug": "bcc-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 3348,
     "timeMonth": 3499,
     "timeYear": 3499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-02": 0
+    }
   }
 ]
