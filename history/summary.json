@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/icn-filkom.ub.ac.id.ico",
     "slug": "icn-laboratory-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.10%",
+    "uptimeDay": "62.94%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "97.10%",
+    "uptimeYear": "97.10%",
     "time": 1967,
-    "timeDay": 2051,
-    "timeWeek": 1831,
+    "timeDay": 0,
+    "timeWeek": 1709,
     "timeMonth": 1967,
     "timeYear": 1967,
     "dailyMinutesDown": {
-      "2025-01-02": 1
+      "2025-01-03": 19,
+      "2025-01-02": 515
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bcc.filkom.ub.ac.id.ico",
     "slug": "bcc-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.11%",
+    "uptimeDay": "62.98%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "97.11%",
     "time": 3499,
-    "timeDay": 3284,
-    "timeWeek": 3348,
+    "timeDay": 0,
+    "timeWeek": 3142,
     "timeMonth": 3499,
     "timeYear": 3499,
     "dailyMinutesDown": {
-      "2025-01-02": 0
+      "2025-01-03": 19,
+      "2025-01-02": 514
     }
   }
 ]
