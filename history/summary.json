@@ -25,7 +25,7 @@
     "url": "https://bcc.filkom.ub.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/bcc.filkom.ub.ac.id.ico",
     "slug": "bcc-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 3967,
     "timeYear": 3967,
     "dailyMinutesDown": {
+      "2025-01-13": 0,
       "2025-01-03": 32,
       "2025-01-02": 514
     }
